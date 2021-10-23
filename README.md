@@ -73,6 +73,9 @@
   95%研发体系在研发品质上出问题，没有建立起品质体系，导致研发品质不可控，没法量产。不具备量产性的产品，等于一出生就死掉了。
 * 
 
-
+---
+IoT产品设计理论(简一商业)
+https://blog.csdn.net/liwei16611/category_7693589.html  
+https://blog.csdn.net/liwei16611/
 
 
