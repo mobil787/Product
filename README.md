@@ -74,8 +74,8 @@
 * 
 
 ---
-IoT产品设计理论(简一商业)
-https://blog.csdn.net/liwei16611/category_7693589.html  
-https://blog.csdn.net/liwei16611/
+* IoT产品设计理论(简一商业)  
+  * https://blog.csdn.net/liwei16611/category_7693589.html  
+  * https://blog.csdn.net/liwei16611/
 
 
